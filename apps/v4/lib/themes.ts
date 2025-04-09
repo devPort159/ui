@@ -4,6 +4,10 @@ export const THEMES = [
     value: "default",
   },
   {
+    name: "Curo",
+    value: "curo",
+  },
+  {
     name: "Neutral",
     value: "neutral",
   },
